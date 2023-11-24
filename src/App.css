@@ -37,3 +37,8 @@
     transform: translateY(0px);
   }
 }
+
+.custom-search-bar {
+  width: 300px;
+  height: 37px;
+} 
